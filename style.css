@@ -13,19 +13,17 @@
 .container-menu{
     width: 20%;
     height: 100vh;
-    background-color: rgba(0, 0, 0, 0.425);
+    background-color: rgba(0, 0, 0, 0.39);
     text-align: center;
     color: white;
     float: left;
     box-sizing: border-box;
     position: fixed;
     z-index: 1;
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.651);
+    
 }
 
-.container-menu:hover{
-    box-shadow: 5px 5px 7px rgba(41, 41, 41, 0.651);
-    border-right: 2px solid rgba(0, 0, 0, 0.205);
-}
 
 .img-wrapper {
     width: 180px;
