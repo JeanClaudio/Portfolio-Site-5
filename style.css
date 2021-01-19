@@ -97,3 +97,21 @@
     background-size: cover;
     opacity: .8;
 }
+
+.content{
+    width: 550px;
+    height: 200px;
+    margin: auto;
+    padding: 200px 0 0 20%;
+}
+
+.content h2{
+    font-size: 5em;
+    color: white;
+    border: 3px solid rgba(255, 255, 255, 0.637);
+}
+
+.content p{
+color: white;
+padding: 15px 0 100px 0;
+}
