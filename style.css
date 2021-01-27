@@ -61,7 +61,7 @@
 }
 
 .menu ul li a:hover{
-    color: #60ff27;
+    color: #00c3ff;;
 }
 
 .social-media{
@@ -76,7 +76,7 @@
 }
 
 .social-media ul li:hover{
-    color: #60ff27;
+    color: #00c3ff;;
     cursor: pointer;
     font-size: 2em;
     transition: .3s;
@@ -112,6 +112,25 @@
 }
 
 .content p{
-color: white;
-padding: 15px 0 100px 0;
+    color: #ffffff;
+    font-size: 1.4em;
+    font-style: italic;
+    padding: 25px 0 100px 0;
+}
+
+.content button{
+    width: 150px;
+    height: 50px;
+    font-size: 1.2em;
+    font-weight: 600;
+    color: rgb(255, 255, 255);
+    background-color:  #00c3ff;
+    border: 2px solid #00c3ff;
+    border-radius: 10px;
+}
+
+.content button:hover{
+    background-color: #00c3ff56;
+    border: none;
+    cursor: pointer;
 }
